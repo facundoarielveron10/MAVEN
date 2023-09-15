@@ -1,4 +1,4 @@
-package model;
+package ar.edu.unnoba.poo.model;
 
 public class User {
     private String usuario;
